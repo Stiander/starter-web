@@ -1,0 +1,1 @@
+this is a newfile, which also contains some text 
